@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10em;
+
+}
+
+.container .data {
+    width: 35em;
+    height: 20em;
+    padding: 3em;
+    border: none;
+    box-shadow: none;
+}
+
+.container form {
+    width: 35em;
+    padding: 3em;
+    border: 1px solid black;
+    box-shadow: 5px 3px black;
+}
+
+
+
+.blocks {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1em;
+}
+
+.blocks span {
+    color: red;
+}
+
+.submitbutton {
+    justify-content: end;
+    margin-top: 10em;
+    margin-right: 5em;
+}
+
+.btn1 {
+    height: 3.5em;
+    width: 9em;
+    border: 2px solid black;
+    box-shadow: 5px 5px black;
+    color: black;
+}
+
+.btn1:active {
+    /* X, Y, blur, color*/
+    box-shadow: 2px 2px 2px black;
+    transform: translateZ(5px);
+    align-items: center;
+}

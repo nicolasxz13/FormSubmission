@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "8Zfkj8ODAsyqOeKGqBXjkVtCrgJruz24I5n/BIAd91A=",
+  "Source": "FormSubmission",
+  "BasePath": "_content/FormSubmission",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FormSubmission\\wwwroot",
+      "Source": "FormSubmission",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\FormSubmission\\wwwroot\\",
+      "BasePath": "_content/FormSubmission",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\FormSubmission\\wwwroot\\css\\styles.css",
+      "SourceId": "FormSubmission",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nicol\\Desktop\\Bootcamp Coding Dojo c#\\ASP.NET Core\\FormSubmission\\wwwroot\\",
+      "BasePath": "_content/FormSubmission",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}
